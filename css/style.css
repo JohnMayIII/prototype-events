@@ -1,0 +1,26 @@
+*{box-sizing: border-box;}
+
+body{
+    margin: 0 auto;
+    width: 800px;
+    background-color: rgb(181, 249, 185);
+    padding-bottom: 25px;
+}
+
+.overall{
+    background-color: pink;
+    margin-top: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.submitBtn{
+    color: black;
+    border-color: black;
+}
+
+.submitBtn:hover{
+    background-color: rgb(181, 249, 185);
+    border-color: rgb(181, 249, 185);
+    color: black;
+}
